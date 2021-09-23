@@ -1,0 +1,5 @@
+x = int(input('Introduce un número: '))
+
+x2 = x**2
+
+print('El cuadrado del número es: {}'.format(x2))
