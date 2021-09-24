@@ -33,5 +33,5 @@ filas = int(input('  número de filas:    '))
 columnas = int(input('  número de columnas: '))
 
 m = leer_matriz(filas, columnas)
-print('La matriz leída es...')
+print('La matriz leída es....')
 mostrar_matriz(m)
